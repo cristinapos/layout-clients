@@ -1,0 +1,7 @@
+Colors:
+- header: #3a4058
+- sidebar: #03afee (top), #15dee4(bottom)
+- bg grey: #e0e1e3
+- orange: #ee4e04
+- text title: #848484
+- text table: #94a6be
