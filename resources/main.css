@@ -142,6 +142,7 @@ aside .logo-wrapper img {
     background-image: url("../assets/transactions-white.png");
 }
 
+/* ordinea in care acestea sunt in meniu ar putea sa se schimbe si atunci iti da sistemul de selected peste cap, este mai ok sa te legi de continut, decat de pozitie */
 .customer-data-wrapper nav > .selected:nth-child(1) .icon-wrapper{
     background-image: url("../assets/transactions-selected.png");
 }
